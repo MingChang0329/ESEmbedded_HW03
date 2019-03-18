@@ -49,8 +49,13 @@ This is the hw03 sample. Please follow the steps below.
 
 --------------------
 
-- [x] **If you volunteer to give the presentation next week, check this.**
+- [] **If you volunteer to give the presentation next week, check this.**
 
 --------------------
 
 **★★★ Please take your note here ★★★**
+1. 實驗目的
+觀察Ｃ語言在組語中如何運作
+2. 實驗步驟
+設計簡易Ｃ語言
+
