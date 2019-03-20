@@ -61,4 +61,12 @@ This is the hw03 sample. Please follow the steps below.
 ![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-18%20下午7.05.22.png)
 將main.c編譯並用qemu進行模擬
 ![iamge](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-19%20下午8.41.30.png)
+觀察到組語先將3存入r3暫存器中
+![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-19%20下午8.42.01.png)
+接著運用r7暫存器存入r3的值,再丟入r0中
+![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-19%20下午8.42.36.png)
+同樣做法丟值進r1和r2
+![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-20%20上午10.06.55.png)
+
+
 
