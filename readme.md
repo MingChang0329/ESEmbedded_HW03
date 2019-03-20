@@ -67,6 +67,11 @@ This is the hw03 sample. Please follow the steps below.
 ![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-19%20下午8.42.36.png)
 同樣做法丟值進r1和r2
 ![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-20%20上午10.06.55.png)
-
+將r3的值加上暫存在r7的3
+![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-20%20上午10.06.55.png)
+最後將r3值存入r0
+![image](https://github.com/MingChang0329/ESEmbedded_HW03/blob/master/Image/螢幕快照%202019-03-20%20上午10.07.22.png)
+3. 結果與討論
+C語言在組語中運作方式基本上跟著已經寫好的ARM架構跑。
 
 
